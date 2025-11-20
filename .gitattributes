@@ -1,1 +1,2 @@
 /lab1/datasets/* filter=lfs diff=lfs merge=lfs -text
+/lab2/datasets/* filter=lfs diff=lfs merge=lfs -text
